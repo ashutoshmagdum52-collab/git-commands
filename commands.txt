@@ -1,0 +1,8 @@
+git clone      : to download data from git to local
+ls             : list the folders
+cd             : change directory (go inside folder)
+touch          : create empty folder
+code .         : to open code platform
+git add        : 
+git commit -m           : upload the data to git
+git push origin main    : upload to git
