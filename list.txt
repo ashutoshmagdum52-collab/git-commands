@@ -1,0 +1,4 @@
+ls             : list the folders
+cd             : change directory (go inside folder)
+touch          : create empty folder
+code .         : to open code platform
